@@ -1,0 +1,17 @@
+{
+  "hosting": {
+    "site": "r-sidence-kn-meubl-yassa",
+    "public": "dist",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ],
+    "rewrites": [
+      {
+        "source": "**",
+        "destination": "/index.html"
+      }
+    ]
+  }
+}

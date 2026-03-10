@@ -1,12 +1,12 @@
 # To-Do List for " 
- - �R�sidence KN Meubl� Yassa " Website
+ - éRésidence KN Meublé Yassa " Website
 
 ## Project Overview
 - **Company Name:** " 
- - �R�sidence KN Meubl� Yassa "
+ - éRésidence KN Meublé Yassa "
 - **Directory:** r_sidence_kn_meubl_yassa
 - **Address/Contact:** 
-  - "  Appartements meubl�s Yassa, Douala, Cameroon
+  - "  Appartements meublés Yassa, Douala, Cameroon
   - 
   - +237 6 76 83 35 13
   - 
@@ -30,7 +30,7 @@
 - [ ] Update package.json:
   - Name: r-sidence-kn-meubl-yassa  - Version: 0.1.0- [ ] Update index.html:
   - Title: " 
- - �R�sidence KN Meubl� Yassa "  - Meta description: facebook.com/residenceknmeuble...
+ - éRésidence KN Meublé Yassa "  - Meta description: facebook.com/residenceknmeuble...
 ### 3. Branding & Content
 - [ ] **Logo:** 
   - Source: Create a placeholder logo  - Action: Copy to src/assets/logo.png (or svg).
@@ -47,7 +47,7 @@ theme.extend.colors.primary to match the brand.
 ### 4. Content Integration
 - [ ] **Home Page (src/pages/public/Home.jsx):
   - Replace the hero title with "" 
- - �R�sidence KN Meubl� Yassa "".
+ - éRésidence KN Meublé Yassa "".
   - Update the subtitle with: "facebook.com/residenceknmeuble".
   - Update "Featured Products" if specific images/products are provided (currently using mock data).
 - [ ] **About Page (src/pages/public/About.jsx):
